@@ -5,17 +5,9 @@
 //  Created by cheng-heng hsu on 12/7/9.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
-//test git on my air
-//just test co work
-<<<<<<< HEAD
-//add this  on mac
-//add this second
-
-=======
 //add this  on air
-//add this line second
-//imac is ok now commit on air
->>>>>>> now commit  on air
+
+
 
 #import <Foundation/Foundation.h>
 #define FINESTATUS                   0

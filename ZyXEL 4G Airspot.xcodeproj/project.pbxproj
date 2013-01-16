@@ -239,7 +239,6 @@
 		4B99AE2E161BF17300144097 /* FlipsideViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlipsideViewController.h; sourceTree = "<group>"; };
 		4B99AE2F161BF17300144097 /* FlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlipsideViewController.m; sourceTree = "<group>"; };
 		4B99AE3B161BF54600144097 /* libZyXELAPPLib.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libZyXELAPPLib.a; path = ZyXEL_router/libZyXELAPPLib.a; sourceTree = "<group>"; };
-		4B99AE3D161BF55700144097 /* ZyXELAPPLib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZyXELAPPLib.h; path = ZyXEL_router/ZyXELAPPLib.h; sourceTree = "<group>"; };
 		4B99AE3F161BF6BD00144097 /* AsyncSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AsyncSocket.h; path = ZyXEL_router/RunLoop/AsyncSocket.h; sourceTree = "<group>"; };
 		4B99AE40161BF6BD00144097 /* AsyncSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AsyncSocket.m; path = ZyXEL_router/RunLoop/AsyncSocket.m; sourceTree = "<group>"; };
 		4B99AE41161BF6BD00144097 /* AsyncUdpSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AsyncUdpSocket.h; path = ZyXEL_router/RunLoop/AsyncUdpSocket.h; sourceTree = "<group>"; };
@@ -421,6 +420,7 @@
 		4BC8607B1650EE0800136A1C /* wifi_1@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi_1@2x.png"; sourceTree = "<group>"; };
 		4BC8607C1650EE0800136A1C /* wifi_2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi_2@2x.png"; sourceTree = "<group>"; };
 		4BC8607D1650EE0800136A1C /* wifi_3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wifi_3@2x.png"; sourceTree = "<group>"; };
+		4BE3288416A657D200494F6E /* ZyXELAPPLib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZyXELAPPLib.h; path = ZyXEL_router/ZyXELAPPLib.h; sourceTree = "<group>"; };
 		4BE6270C16353A7700761A0F /* Notifi_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Notifi_ViewController.h; sourceTree = "<group>"; };
 		4BE6270D16353A7700761A0F /* Notifi_ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Notifi_ViewController.m; sourceTree = "<group>"; };
 		4BE6271016353AB000761A0F /* S_CellularViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = S_CellularViewController.h; sourceTree = "<group>"; };
@@ -550,7 +550,7 @@
 		4B99AE3A161BF4E900144097 /* ZyXELlib */ = {
 			isa = PBXGroup;
 			children = (
-				4B99AE3D161BF55700144097 /* ZyXELAPPLib.h */,
+				4BE3288416A657D200494F6E /* ZyXELAPPLib.h */,
 				4B99AE3B161BF54600144097 /* libZyXELAPPLib.a */,
 			);
 			name = ZyXELlib;
