@@ -5,13 +5,7 @@
 //  Created by cheng-heng hsu on 12/7/9.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
-//add this  on air
 
-//test git on my air
-//just test co work
-//add this  on air
-//add this line second
-//imac is ok now commit on air
 
 
 #import <Foundation/Foundation.h>
