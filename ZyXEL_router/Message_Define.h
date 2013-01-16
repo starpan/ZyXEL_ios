@@ -5,7 +5,9 @@
 //  Created by pan star on 12/10/12.
 //  Copyright (c) 2012年 pan star. All rights reserved.
 //
-
+// test git on starimac
+// thist is code
+// add on imac
 #ifndef ZyXEL_router_Message_Define_h
 #define ZyXEL_router_Message_Define_h
 
