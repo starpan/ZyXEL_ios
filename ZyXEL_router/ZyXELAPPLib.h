@@ -5,6 +5,9 @@
 //  Created by cheng-heng hsu on 12/7/9.
 //  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
 //
+//test git on my air
+//just test co work
+//add this  on imac
 
 #import <Foundation/Foundation.h>
 #define FINESTATUS                   0
