@@ -7,6 +7,11 @@
 //
 //add this  on air
 
+//test git on my air
+//just test co work
+//add this  on air
+//add this line second
+//imac is ok now commit on air
 
 
 #import <Foundation/Foundation.h>
