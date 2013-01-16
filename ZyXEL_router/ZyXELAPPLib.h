@@ -7,9 +7,15 @@
 //
 //test git on my air
 //just test co work
+<<<<<<< HEAD
 //add this  on mac
 //add this second
 
+=======
+//add this  on air
+//add this line second
+//imac is ok now commit on air
+>>>>>>> now commit  on air
 
 #import <Foundation/Foundation.h>
 #define FINESTATUS                   0
