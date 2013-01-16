@@ -7,7 +7,7 @@
 //
 //test git on my air
 //just test co work
-//add this  on imac
+//add this  on air
 
 #import <Foundation/Foundation.h>
 #define FINESTATUS                   0
